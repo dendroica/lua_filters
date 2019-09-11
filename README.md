@@ -1,6 +1,6 @@
 # lua_filters
 
-This is to change page orientations within a document, using RMarkdown to knit to Word (docx). Put the "orient.lua" file in the same directory as your RMarkdown file, and specify this in the header.
+This is to change page orientations within a document, using RMarkdown to knit to Word (docx). Put the "orient.lua" file in the same directory as your RMarkdown file, and specify this in the header (with of course whatever identifying info or additional specifications you like).
 
 ```
 title: "Test Doc"
